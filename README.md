@@ -1,16 +1,33 @@
-## Hi there 👋
+이력서를 위한 포트폴리오 계정 입니다.
 
-<!--
-**portfolio-yk/portfolio-yk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[김예강] (Ye Kang Kim)
 
-Here are some ideas to get you started:
+Experience 🧑‍🏫
+(21.03 - 21.09) 인천대학교 앱센터 16기 안드로이드 파트
+(21.08 - 21.11) 소프트웨어 스퀘어드 안드로이드 2기 중도포기 (취업 이슈)
+(21.11 - 23.10) (주) 어니언커뮤니케이션즈 개발팀 근무 (Flutter, Vue.js, Spring, ..)
+(24.01 - ) (주) 디엠피네트웍스 프리랜서 (펫트라슈 프론트엔드, APP 유지보수)
+(24.03 - 24.12) 창업동아리 모두의피티 개발자 활동
+(25.02 - ) 컴세바코딩학원 강사 (C/C++/Java/Python, APP/WEB 수업)
+(25.03 - ) 창업동아리 에이틱스 개발자 활동
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Awards & Education 
+(21. ) INU 매트랩 경진대회 최우수상 - 
+(23) INU Maker 우수상 - 
+(23) PBL 최우수상 - 
+(24) AWS 해커톤 특별상
+(25) 교육부 공공데이터 경진대회 우수상
+(25) 창업동아리 최우수상
+(24) 대학수학경진대회 동상
+(25.06 - ) 대학생 U300 선정
+(25.06 - ? ) AI보안개발 교육 수료
+(25) 성균관대 미니아이코어 수료
+(25) 버그찾기대회 우수상
+(26) 버그찾기대회 최우수상
+
+
+
+Interest 👀
+- Andorid
+- Frontend/Backend
+- Security
