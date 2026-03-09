@@ -1,8 +1,8 @@
 이력서를 위한 포트폴리오 계정 입니다.
 
-[김예강] (Ye Kang Kim)
+# [김예강] (Ye Kang Kim)
 
-Experience 🧑‍🏫
+## Experience 🧑‍🏫
 
 (21.03 - 21.09) 인천대학교 앱센터 16기 안드로이드 파트
 
@@ -19,7 +19,7 @@ Experience 🧑‍🏫
 (25.03 - ) 창업동아리 에이틱스 개발자 활동
 
 
-Awards & Education 
+## Awards & Education 
 
 (21. ) INU 매트랩 경진대회 최우수상 - 
 
@@ -46,7 +46,9 @@ Awards & Education
 (26) 버그찾기대회 최우수상
 
 
-Interest 👀
+## Interest 👀
 - Andorid
+  
 - Frontend/Backend
+  
 - Security
