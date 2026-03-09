@@ -47,7 +47,7 @@
 
 
 ## Interest 👀
-- Andorid
+- Android
   
 - Frontend/Backend
   
