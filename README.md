@@ -1,6 +1,6 @@
 이력서를 위한 포트폴리오 계정 입니다.
 
-# [김예강] (Ye Kang Kim)
+# YeKang Kim
 
 ## Experience 🧑‍🏫
 
