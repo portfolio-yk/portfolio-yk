@@ -1,6 +1,6 @@
 
 ### 👋 Nice ways to reach me
-[![Email](https://img.shields.io/badge/gongg101010@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:gongg101010@gmail.com)
+![Naver Mail](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=naver&logoColor=white)
 
 ### 💪 Skills
 
