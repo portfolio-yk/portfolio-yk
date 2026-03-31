@@ -14,31 +14,13 @@
 
 
 ### 👋 Nice ways to reach me
-[![Email](https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:gongg101010@gmail.com)
-
-----
-Hi! I’m a full-stack developer who turns ambiguity into shipped software — APIs, web apps, and sometimes mobile.  
-I care about clean interface contracts, pragmatic DX, and systems that scale without drama. 🚀
-
-#### 🖥️ On the web side,
-I build frontends with React + TypeScript and mostly use Node.js on the backend. I design BFF layers and GraphQL APIs, and I’m comfortable with Spring.
-
-#### 📱 On the mobile side,
-I spent 7 years on Android (Java/Kotlin) and the last 2 years of that on iOS (Swift). I’ve shipped with Flutter and React Native, but prefer native when it matters.
-
-#### ☁️ On the infra & data side, 
-I work with Kubernetes, Docker, and Elasticsearch; use both MongoDB and SQL; and have experience with Kafka. In ops/observability and platform, I also use Nginx, Grafana, and AWS; Redis and Elasticsearch often back real-time and search workloads.
-
-#### 💚 Off the clock,
-I’m into diving (free & scuba), swimming, band music and festivals — plus baseball, books, travel — and volunteer coding whenever I can. I like building things that make life feel a little more beautiful. ✨
-
-----
+[![Email](https://img.shields.io/badge/gongg101010@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:gongg101010@gmail.com)
 
 ### 💪 Skills
 
 #### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 #### Backend & APIs
