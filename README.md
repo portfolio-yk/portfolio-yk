@@ -43,8 +43,8 @@
 |--------|------|
 | 2021.03 – 2021.09 | Incheon National University App Center 12th · Android Part |
 | 2021.11 – 2023.10 | *Onion Communications* · Developer (Flutter, Vue.js, Spring, …) |
-| 2024.01 – | DMP Networks · Freelance Developer (Pettrash Frontend & App Maintenance) |
-| 2025.02 – | Comse-ba Coding Academy · Instructor (C / C++ / Java / Python, App & Web) |
+| 2024.01 – | DMP Networks · Freelance Developer (Frontend & App Maintenance) |
+| 2025.02 – | Comse-ba Coding Academy · Instructor (C / C++ / Java / Python / App / Web) |
 | 2025.03 – | Startup Club *ATIX* · Developer |
 
 
