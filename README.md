@@ -34,7 +34,7 @@
 
 #### Focus & Strengths
 - 🖥️ Full-Stack Development — Frontend to Backend, end-to-end
-- 🔐 Security — Interested in secure architecture, vulnerabilities & defense
+- 🔐 Security — vulnerabilities & defense
 - 📱 Mobile — Cross-platform & native Android development
 
 ### 🧑‍🏫 Experience
