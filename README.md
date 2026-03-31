@@ -15,8 +15,8 @@
 
 #### Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
@@ -37,18 +37,14 @@
 - 🔐 Security — Interested in secure architecture, vulnerabilities & defense
 - 📱 Mobile — Cross-platform & native Android development
 
-### Experience 🧑‍🏫
+### 🧑‍🏫 Experience
 
-(21.03 - 21.09) 인천대학교 앱센터 16기 안드로이드 파트
-
-(21.11 - 23.10) (주) 어니언커뮤니케이션즈 개발팀 근무 (Flutter, Vue.js, Spring, ..)
-
-(24.01 - ) (주) 디엠피네트웍스 프리랜서 (펫트라슈 프론트엔드, APP 유지보수)
-
-(24.03 - 24.12) 창업동아리 모두의피티 개발자 활동
-
-(25.02 - ) 컴세바코딩학원 강사 (C/C++/Java/Python, APP/WEB 수업)
-
-(25.03 - ) 창업동아리 에이틱스 개발자 활동
+| Period | Role |
+|--------|------|
+| 2021.03 – 2021.09 | Incheon National University App Center 12th · Android Part |
+| 2021.11 – 2023.10 | *Onion Communications* · Developer (Flutter, Vue.js, Spring, …) |
+| 2024.01 – | DMP Networks · Freelance Developer (Pettrash Frontend & App Maintenance) |
+| 2025.02 – | Comse-ba Coding Academy · Instructor (C / C++ / Java / Python, App & Web) |
+| 2025.03 – | Startup Club *ATIX* · Developer |
 
 
